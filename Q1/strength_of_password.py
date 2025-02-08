@@ -1,0 +1,1 @@
+# Python script to check the strength of the password.

@@ -1,0 +1,1 @@
+# Python script to create backups of the files in the source directory into the destination directory.
